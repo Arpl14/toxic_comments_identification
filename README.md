@@ -1,7 +1,7 @@
 # Sentiment Analysis - Identifying Toxic Comments 🚨💬
 
 ### Author: Arpita Lonakadi  
-**Email:** arlona@iu.edu  
+**Email:** lonakadiarpita@gmail.com
 **Date:** September 29, 2024
 
 ---
