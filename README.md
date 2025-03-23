@@ -2,7 +2,6 @@
 
 ### Author: Arpita Lonakadi  
 **Email:** lonakadiarpita@gmail.com
-**Date:** September 29, 2024
 
 ---
 
